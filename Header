@@ -1,1 +1,52 @@
-C
+CSS____
+
+.cli-text p { margin-top: 30px !important; }
+
+.transprison_hed {
+text-align: center;
+font-family: "sole-serif-titling-variable", sans-serif;
+font-variation-settings: "opsz" 400, "wght" 200;
+font-size: 5em;
+margin: 0 7px 30px 7px;
+}
+
+.transprison_dek {
+text-align: center;
+font-family: "sole-serif-titling-variable", sans-serif;
+font-variation-settings: "opsz" 0, "wght" 200;
+line-height: 1.5;
+font-size: 1.7em;
+margin: 0 6em 0 6em;
+}
+
+.transprison_byline {
+text-align: center;
+font-size: 18px;
+margin: 40px 3em 0 3em;
+line-height: 1.5;
+}
+
+@media screen and (max-width: 700px){
+
+.transprison_hed {
+font-size: 4em;
+text-align: left;
+margin-left: 20px;}
+
+.transprison_dek {
+font-size: 18px;
+text-align: left;
+margin-left: 20px;
+margin-right: 20px;}
+
+.transprison_byline {
+text-align: left;
+margin-left: 20px;}
+}
+
+EMBED___
+<div class="transprison_hed">Inside The Brutal Struggle For Trans Care In Prison</div>
+
+<div class="transprison_dek">Trans people across the country are facing an assault on their right to exist — but being transgender in prison is uniquely difficult.</div>
+
+<div class="transprison_byline"><b style="color:#444444">By <a href="https://www.huffpost.com/author/jessica-schulberg"  style="color:#444444" target="_blank" rel="noopener noreferrer">Jessica Schulberg</a></b>  |  <span style="color: #767676">Published Nov 27, 2023</span></div>
